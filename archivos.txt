@@ -1,2 +1,4 @@
-estoy editando el archivo desde la terminal. mas edicion.
-estoy editando desde github
+
+estoy editando el archivo desde la terminal. Ahora estoy creando un conflicto (commit desde github)
+Resolvemos el conflicto
+  
