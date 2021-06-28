@@ -1,2 +1,2 @@
-estoy editando el archivo desde la terminal
+estoy editando el archivo desde la terminal. mas edicion.
 estoy editando desde github
